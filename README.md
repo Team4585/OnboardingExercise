@@ -1,1 +1,3 @@
 # OnboardingExercise
+
+print("Hello world")
